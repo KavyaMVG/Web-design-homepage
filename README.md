@@ -15,7 +15,7 @@ A landing page designed using pure HTML & CSS as part of ineuron assignment.
 
 ### Screenshot
 
-![Project live image](./images/web-design-page.png)
+![Project live image](./assets/web-design-page.png)
 
 ## Author
 
